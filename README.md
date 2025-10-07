@@ -103,7 +103,7 @@ VECTOR_DB_PATH=./vector_db
 
 ```
 academic-rag-assistant/
-├── app.py                 # Main Streamlit application
+├── main.py                 # Main Streamlit application
 ├── llm_generation.py      # LLM prompt engineering
 ├── arxiv_retriever.py     # arXiv paper retrieval
 ├── chroma_db.py          # Vector database
