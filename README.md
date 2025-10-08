@@ -150,4 +150,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Streamlit** for the interactive web framework
 
 
-**Built with 🧠 for the AI research community**
+**Built with ❤️ for the AI research community**
